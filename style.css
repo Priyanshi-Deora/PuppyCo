@@ -1,0 +1,25 @@
+.carousel-inner img {
+    width: 70%;
+    height: 100%;
+  }
+  body{
+    background-color: #b9cdca;
+  }
+  a{
+    color: white;
+}
+#navbar{
+  background-color:  #ccb9b4 ;
+}
+a:hover{
+  color: #bbfff5;
+}
+h1{
+  font-family: 'Sofia';
+}
+h3{
+  font-family: 'Lilita One';
+}
+.card-img-top{
+    height: 350px;
+}
